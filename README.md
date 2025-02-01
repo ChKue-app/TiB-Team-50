@@ -2,6 +2,13 @@
 
 Eine Webanwendung zur Verwaltung des TiB Damen 50 Tennis Teams.
 
+## Features
+
+- Spielerinnen-Verwaltung
+  - Hinzufügen/Bearbeiten/Löschen von Spielerinnen
+  - Meldereihenfolge anpassen
+  - Kontaktdaten verwalten
+
 ## Setup
 
 1. Repository klonen
@@ -30,13 +37,6 @@ Eine Webanwendung zur Verwaltung des TiB Damen 50 Tennis Teams.
    cd frontend
    npm run dev
    ```
-
-## Features
-
-- Spielerinnen-Verwaltung
-  - Hinzufügen/Bearbeiten/Löschen von Spielerinnen
-  - Meldereihenfolge per Drag & Drop anpassen
-  - Kontaktdaten verwalten
 
 ## Tech Stack
 
